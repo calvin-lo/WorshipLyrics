@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd linux_ver
+./linux_build.sh
+cd ../win_ver
+./window_build.sh

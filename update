@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd linux_ver
+./linux_update.sh
+cd ../win_ver
+./window_update.sh
+ 
